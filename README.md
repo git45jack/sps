@@ -1,5 +1,7 @@
 # Google Software Product Sprint
 
+gi45jack
+
 This repo contains the projects you'll work on throughout SPS.
 
 To get started:
